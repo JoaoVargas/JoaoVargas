@@ -1,8 +1,10 @@
+![Gif](https://i.gifer.com/XPam.gif)
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Prazer, sou João Guilherme Vargas, um estudante e aspirante a programador fullstack.<br>
-  Atualmente curso Ciência da Computação na Udesc e participo do <a href="https://github.com/ColmeiaUDESC">Colméia</a>, um grupo que viza a expor o Software e Hardware Livre ao público.
+  Atualmente curso Ciência da Computação na Udesc e participo do <a href="https://github.com/ColmeiaUDESC">Colméia</a>, um grupo que visa a expor o Software e Hardware Livre ao público.
 </p>
 
 <p align="left">
