@@ -1,4 +1,4 @@
-![Gif](https://i.pinimg.com/originals/f5/80/81/f58081512c1df73315df1d5fa8f7f8c1.gif)
+![Gif](https://i.gifer.com/xK.gif)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
