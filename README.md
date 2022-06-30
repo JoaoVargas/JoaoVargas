@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/3e34017bf0bf21273a63e82559ea0aa0/tumblr_n6z0ihoN8V1tn7zuzo1_500.gifv" width=100% height=5% />
+<img src="https://64.media.tumblr.com/3e34017bf0bf21273a63e82559ea0aa0/tumblr_n6z0ihoN8V1tn7zuzo1_500.gifv" width=100% height="100" />
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
