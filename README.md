@@ -1,4 +1,4 @@
-![Gif](https://camo.githubusercontent.com/d3737e97ba7665311e9bd8a237f7a83d973305e19cfbf6498d0cbac49d1069c4/68747470733a2f2f632e74656e6f722e636f6d2f6a754c367844325f73505141414141432f6165737465746869632d6e656f6e2e676966)
+![Gif](https://64.media.tumblr.com/3e34017bf0bf21273a63e82559ea0aa0/tumblr_n6z0ihoN8V1tn7zuzo1_500.gifv)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
