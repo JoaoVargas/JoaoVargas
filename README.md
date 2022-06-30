@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Prazer, sou João Guilherme Vargas, um estudante e aspirante a programador fullstack.<br>
-  Atualmente curso Ciência da Computação na Udesc e participo do <a href="https://github.com/ColmeiaUDESC"> Colméia <\a> , um grupo que viza a expor o Software e Hardware Livre ao público.
+  Atualmente curso Ciência da Computação na Udesc e participo do </p> <a href="https://github.com/ColmeiaUDESC"> Colméia <\a> <p> , um grupo que viza a expor o Software e Hardware Livre ao público.
 </p>
 
 <p align="left">
