@@ -2,9 +2,9 @@
 
 <p align="left"> 
   Prazer,<br>
-  Sou João Guilherme Vargas, um estudante e aspirante a programador fullstack.<br>
-  Atualmente curso Ciência da Computação na Udesc.<br>
-  Participei ativamente do <a href="https://github.com/ColmeiaUDESC">Colmeia</a>, um grupo dedicado à divulgação do Software e Hardware Livre para o público. Durante minha participação no grupo Colmeia, adquiri valiosas experiências na área de Software e Hardware Livre. Desempenhei um papel ativo na organização e realização de eventos, palestras e workshops, nos quais compartilhei conhecimentos e promovi a conscientização sobre a importância dessas tecnologias.
+  Sou João Guilherme Vargas, um estudante e aspirante a Desenvolvedor Fullstack. Atualmente cursando Ciência da Computação na Udesc.<br>
+  Participei ativamente do <a href="https://github.com/ColmeiaUDESC">Colmeia</a>, um grupo dedicado à divulgação do Software e Hardware Livre para o público. Durante minha participação no grupo Colmeia, adquiri valiosas experiências na área de Software e Hardware Livre. <br>
+  Desempenhei um papel ativo na organização e realização de eventos, palestras e workshops, nos quais compartilhei conhecimentos e promovi a conscientização sobre a importância dessas tecnologias.
 </p>
 
 <p align="left">
