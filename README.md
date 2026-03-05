@@ -5,11 +5,11 @@
   Sou João Guilherme Vargas, um estudante e aspirante a Desenvolvedor Fullstack. Atualmente cursando Ciência da Computação na Udesc.<br>
   Participei ativamente do <a href="https://github.com/ColmeiaUDESC">Colmeia</a>, um grupo dedicado à divulgação do Software e Hardware Livre para o público. Durante minha participação no grupo Colmeia, adquiri valiosas experiências na área de Software e Hardware Livre, além de experiencias com Sistemas Operacionais e Administração de Sistemas <br>
   Desempenhei um papel ativo na organização e realização de eventos, palestras e workshops, nos quais compartilhei conhecimentos e promovi a conscientização sobre a importância dessas tecnologias. <br>
-  Atualmente estagio na <a href="https://informatech.com.br/">Informatech - Inteligência em TI</a>, trabalhando com o desenvolvimento web full-stack
+  <!-- Atualmente estagio na <a href="https://informatech.com.br/">Informatech - Inteligência em TI</a>, trabalhando com o desenvolvimento web full-stack -->
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>Javascript, ReactJS, VueJS, Ruby, Ruby on Rails, C, Python, Java.</strong>
+  💻 Linguagens e Frameworks: <strong>Typescript, Python, C, React, React Native, Vue, Ruby on Rails.</strong>
 </p>
 
 <p align="left">
