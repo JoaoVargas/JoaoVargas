@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href=" mailto:jotaguivargas@gmail.com?subject=Interesse%20no%20seu%20curr%C3%ADculo&body=Ol%C3%A1%2C%0D%0AV%C3%AD%20o%20seu%20curr%C3%ADculo%20e%20gostaria%20de%20conversar%20um%20pouco%20mais." alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
   
   <a href="https://www.linkedin.com/in/joao-gui-vargas/" alt="Linkedin">
