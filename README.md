@@ -23,7 +23,7 @@
   🗣️ Portuguese (Native) · English (Fluent) · Spanish (Basic)
 </p>
 
-<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/images/wave.svg" width="100%">
+<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/images/wave_divider.svg" width="100%">
 
 <h1>📚 My Stack</h1>
 
@@ -97,21 +97,21 @@
   <img alt="Figma Badge" src="https://img.shields.io/badge/-Figma-05122A?logo=figma&color=%23242423">
 </div>
 
-<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/images/wave.svg" width="100%">
+<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/images/wave_divider.svg" width="100%">
 
 <h2>📄 Resume</h2>
 
-<a href="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/cvs/BR%20-%20Jo%C3%A3o%20Vargas.pdf">
+<a href="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/cvs/EN%20-%20Jo%C3%A3o%20Vargas.pdf">
   <img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/cvs/cv_preview.png" width="400" alt="Resume Preview">
 </a>
 
 <p>
-  <a href="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/cvs/BR%20-%20Jo%C3%A3o%20Vargas.pdf">
+  <a href="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/cvs/EN%20-%20Jo%C3%A3o%20Vargas.pdf">
     <img src="https://img.shields.io/badge/-Download%20CV-242423?logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
 </p>
 
-<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/images/wave.svg" width="100%">
+<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/images/wave_divider.svg" width="100%">
 
 <h2 align="center">📬 Connect with me</h2>
 
