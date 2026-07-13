@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fef3e8" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fef3e8" alt="Header"/> 
 
-<img width=100% src="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/github-header-banner.png" alt="header"/> 
+<img width=100% src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/images/header_banner.png" alt="Header banner"/> 
 
 <div align="center">
   
@@ -23,7 +23,7 @@
   🗣️ Portuguese (Native) · English (Fluent) · Spanish (Basic)
 </p>
 
-<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/wave.svg" width="100%">
+<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/images/wave.svg" width="100%">
 
 <h1>📚 My Stack</h1>
 
@@ -97,21 +97,21 @@
   <img alt="Figma Badge" src="https://img.shields.io/badge/-Figma-05122A?logo=figma&color=%23242423">
 </div>
 
-<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/wave.svg" width="100%">
+<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/images/wave.svg" width="100%">
 
 <h2>📄 Resume</h2>
 
-<a href="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/cvs/BR%20-%20Jo%C3%A3o%20Vargas.pdf">
-  <img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/cvs/cv_preview.png" width="400" alt="Resume Preview">
+<a href="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/cvs/BR%20-%20Jo%C3%A3o%20Vargas.pdf">
+  <img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/cvs/cv_preview.png" width="400" alt="Resume Preview">
 </a>
 
 <p>
-  <a href="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/cvs/BR%20-%20Jo%C3%A3o%20Vargas.pdf">
+  <a href="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/cvs/BR%20-%20Jo%C3%A3o%20Vargas.pdf">
     <img src="https://img.shields.io/badge/-Download%20CV-242423?logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
 </p>
 
-<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/wave.svg" width="100%">
+<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/images/wave.svg" width="100%">
 
 <h2 align="center">📬 Connect with me</h2>
 
@@ -134,4 +134,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fef3e8&section=footer" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fef3e8&section=footer" alt="Footer"/> 
