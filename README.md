@@ -1,41 +1,137 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fef3e8" alt="header"/> 
 
-<p align="left"> 
-  Prazer,<br>
-  Sou João Guilherme Vargas, desenvolvedor e estudante. Atualmente cursando Sistemas da Informação na PUCPR.<br>
-  Participei ativamente do <a href="https://github.com/ColmeiaUDESC">Colmeia</a>, um grupo dedicado à divulgação do Software e Hardware Livre para o público. Durante minha participação no grupo Colmeia, adquiri valiosas experiências na área de Software e Hardware Livre, além de experiencias com Sistemas Operacionais e Administração de Sistemas <br>
-  Desempenhei um papel ativo na organização e realização de eventos, palestras e workshops, nos quais compartilhei conhecimentos e promovi a conscientização sobre a importância dessas tecnologias. <br>
-  <!-- Atualmente trabalho na <a href="https://informatech.com.br/">Informatech - Inteligência em TI</a>, onde atuo no desenvolvimento ... -->
-</p>
+<img width=100% src="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/github-header-banner.png" alt="header"/> 
 
-<p align="left">
-  💻 Frameworks: <strong>React, Next, Vue, React Native, Rails, Express</strong>
-</p>
-
-<p align="left">
-  💻 Linguagens: <strong>Javascript/Typescript, C++, C#, Python, HTML/CSS, SQL (PostgreSQL, MySQL)</strong>
-</p>
-
-<p align="left">
-  📦 Tecnologias: <strong>Linux, Quickshell, Docker</strong>
-</p>
-
-<p align="left">
-  🛠 Ferramentas: <strong>Github Actions CI/CD, Azure Devops, Expo, VSCode, Figma, IntelliJ, Adobe, GIMP, Microsoft Office, OnlyOfice, Godot, Krita, Aseprite.</strong>
-</p>
-
-<p align="left">
-  Entre em contato comigo via as redes abaixo: ⤵️
-</p>
-
-<p align="left">
-  <a href=" mailto:jotaguivargas@gmail.com?subject=Interesse%20no%20seu%20curr%C3%ADculo&body=Ol%C3%A1%2C%0D%0AV%C3%AD%20o%20seu%20curr%C3%ADculo%20e%20gostaria%20de%20conversar%20um%20pouco%20mais." alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+<div align="center">
   
-  <a href="https://www.linkedin.com/in/joao-gui-vargas/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&link=https://www.linkedin.com/in/joao-gui-vargas/" /></a>
+  ![](https://komarev.com/ghpvc/?username=JoaoVargas&label=PROFILE+VIEWS&color=242423)
+  [![GitHub followers](https://img.shields.io/github/followers/JoaoVargas?label=Followers&color=242423)](https://github.com/JoaoVargas)
+  
+</div>
 
-  <a href="https://api.whatsapp.com/send?phone=5547991954038&text=Ol%C3%A1%2C%20vim%20do%20Github!" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-25d366?labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547991954038&text=Ol%C3%A1%2C%20vim%20do%20Github!"/></a>
+<h1>👋 About me</h1>
 
-<img src="https://64.media.tumblr.com/3e34017bf0bf21273a63e82559ea0aa0/tumblr_n6z0ihoN8V1tn7zuzo1_500.gifv" width=100% height="400" />
+<p>
+  Mobile and Full-stack Web Developer focused on building reliable applications end-to-end from requirements and UI decisions through CI/CD and app store releases. Experienced across mobile, web, and backend, with a track record of shipping features that improve usability, performance, and data-driven product decisions.
+</p>
+
+<p>
+  🇧🇷 Based in Brazil
+</p>
+
+<p>
+  🗣️ Portuguese (Native) · English (Fluent) · Spanish (Basic)
+</p>
+
+<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/wave.svg" width="100%">
+
+<h1>📚 My Stack</h1>
+
+<div>
+  <h3>💻 Languages:</h3>
+  <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-05122A?logo=javascript&color=%23242423">
+  <img alt="TypeScript Badge" src="https://img.shields.io/badge/-TypeScript-05122A?logo=typescript&color=%23242423">
+  <img alt="C++ Badge" src="https://img.shields.io/badge/-C++-05122A?logo=cplusplus&color=%23242423">
+  <img alt="C# Badge" src="https://img.shields.io/badge/-C%23-05122A?logo=csharp&color=%23242423">
+  <img alt="Python Badge" src="https://img.shields.io/badge/-Python-05122A?logo=python&color=%23242423">
+  <img alt="SQL Badge" src="https://img.shields.io/badge/-SQL-05122A?logo=postgresql&color=%23242423">
+</div>
+
+<div>
+  <h3>📱 Mobile:</h3>
+  <img alt="React Native Badge" src="https://img.shields.io/badge/-React%20Native-05122A?logo=react&color=%23242423">
+  <img alt="Expo Badge" src="https://img.shields.io/badge/-Expo-05122A?logo=expo&color=%23242423">
+</div>
+
+<div>
+  <h3>🖥️ Frontend:</h3>
+  <img alt="React Badge" src="https://img.shields.io/badge/-React-05122A?logo=react&color=%23242423">
+  <img alt="Next.js Badge" src="https://img.shields.io/badge/-Next.js-05122A?logo=nextdotjs&color=%23242423">
+  <img alt="Vue Badge" src="https://img.shields.io/badge/-Vue-05122A?logo=vuedotjs&color=%23242423">
+  <img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-05122A?logo=html5&color=%23242423">
+  <img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-05122A?logo=css3&color=%23242423">
+</div>
+
+<div>
+  <h3>⚙️ Backend:</h3>
+  <img alt="Node.js Badge" src="https://img.shields.io/badge/-Node.js-05122A?logo=nodedotjs&color=%23242423">
+  <img alt="Express Badge" src="https://img.shields.io/badge/-Express-05122A?logo=express&color=%23242423">
+  <img alt="Ruby on Rails Badge" src="https://img.shields.io/badge/-Ruby%20on%20Rails-05122A?logo=rubyonrails&color=%23242423">
+  <img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-05122A?logo=dotnet&color=%23242423">
+</div>
+
+<div>
+  <h3>🗄️ Databases:</h3>
+  <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-05122A?logo=postgresql&color=%23242423">
+  <img alt="MySQL Badge" src="https://img.shields.io/badge/-MySQL-05122A?logo=mysql&color=%23242423">
+  <img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-05122A?logo=mongodb&color=%23242423">
+  <img alt="Redis Badge" src="https://img.shields.io/badge/-Redis-05122A?logo=redis&color=%23242423">
+  <img alt="Prisma Badge" src="https://img.shields.io/badge/-Prisma-05122A?logo=prisma&color=%23242423">
+  <img alt="Drizzle Badge" src="https://img.shields.io/badge/-Drizzle-05122A?logo=drizzle&color=%23242423">
+</div>
+
+<div>
+  <h3>🚀 DevOps & CI/CD:</h3>
+  <img alt="Docker Badge" src="https://img.shields.io/badge/-Docker-05122A?logo=docker&color=%23242423">
+  <img alt="GitHub Actions Badge" src="https://img.shields.io/badge/-GitHub%20Actions-05122A?logo=githubactions&color=%23242423">
+  <img alt="Azure DevOps Badge" src="https://img.shields.io/badge/-Azure%20DevOps-05122A?logo=azuredevops&color=%23242423">
+</div>
+
+<div>
+  <h3>🧪 Testing & Quality:</h3>
+  <img alt="Testing Library Badge" src="https://img.shields.io/badge/-Testing%20Library-05122A?logo=testinglibrary&color=%23242423">
+  <img alt="SonarQube Badge" src="https://img.shields.io/badge/-SonarQube-05122A?logo=sonarqube&color=%23242423">
+  <img alt="PostHog Badge" src="https://img.shields.io/badge/-PostHog-05122A?logo=posthog&color=%23242423">
+</div>
+
+<div>
+  <h3>🤖 AI & Orchestration:</h3>
+  <img alt="Claude Badge" src="https://img.shields.io/badge/-Claude-05122A?logo=anthropic&color=%23242423">
+  <img alt="GitHub Copilot Badge" src="https://img.shields.io/badge/-GitHub%20Copilot-05122A?logo=githubcopilot&color=%23242423">
+</div>
+
+<div>
+  <h3>🛠️ Tools:</h3>
+  <img alt="Git Badge" src="https://img.shields.io/badge/-Git-05122A?logo=git&color=%23242423">
+  <img alt="VS Code Badge" src="https://img.shields.io/badge/-VS%20Code-05122A?logo=visualstudiocode&color=%23242423">
+  <img alt="Figma Badge" src="https://img.shields.io/badge/-Figma-05122A?logo=figma&color=%23242423">
+</div>
+
+<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/wave.svg" width="100%">
+
+<h2>📄 Resume</h2>
+
+<a href="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/cvs/BR%20-%20Jo%C3%A3o%20Vargas.pdf">
+  <img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/cvs/cv_preview.png" width="400" alt="Resume Preview">
+</a>
+
+<p>
+  <a href="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/cvs/BR%20-%20Jo%C3%A3o%20Vargas.pdf">
+    <img src="https://img.shields.io/badge/-Download%20CV-242423?logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+</p>
+
+<img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/Images/wave.svg" width="100%">
+
+<h2 align="center">📬 Connect with me</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/joao-gui-vargas">
+    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%23fef3e8" width="40" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jotaguivargas@gmail.com">
+    <img src="https://api.iconify.design/mdi/email.svg?color=%23fef3e8" width="40" alt="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://jotav.dev/">
+    <img src="https://api.iconify.design/mdi/briefcase.svg?color=%23fef3e8" width="40" alt="Portfolio">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/JoaoVargas">
+    <img src="https://api.iconify.design/mdi/github.svg?color=%23fef3e8" width="40" alt="GitHub">
+  </a>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fef3e8&section=footer" alt="header"/> 
