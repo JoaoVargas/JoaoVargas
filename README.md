@@ -27,75 +27,14 @@
 
 <h1>📚 My Stack</h1>
 
-<div>
-  <h3>💻 Languages:</h3>
-  <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-05122A?logo=javascript&color=%23242423">
-  <img alt="TypeScript Badge" src="https://img.shields.io/badge/-TypeScript-05122A?logo=typescript&color=%23242423">
-  <img alt="C++ Badge" src="https://img.shields.io/badge/-C++-05122A?logo=cplusplus&color=%23242423">
-  <img alt="C# Badge" src="https://img.shields.io/badge/-C%23-05122A?logo=csharp&color=%23242423">
-  <img alt="Python Badge" src="https://img.shields.io/badge/-Python-05122A?logo=python&color=%23242423">
-  <img alt="SQL Badge" src="https://img.shields.io/badge/-SQL-05122A?logo=postgresql&color=%23242423">
-</div>
-
-<div>
-  <h3>📱 Mobile:</h3>
-  <img alt="React Native Badge" src="https://img.shields.io/badge/-React%20Native-05122A?logo=react&color=%23242423">
-  <img alt="Expo Badge" src="https://img.shields.io/badge/-Expo-05122A?logo=expo&color=%23242423">
-</div>
-
-<div>
-  <h3>🖥️ Frontend:</h3>
-  <img alt="React Badge" src="https://img.shields.io/badge/-React-05122A?logo=react&color=%23242423">
-  <img alt="Next.js Badge" src="https://img.shields.io/badge/-Next.js-05122A?logo=nextdotjs&color=%23242423">
-  <img alt="Vue Badge" src="https://img.shields.io/badge/-Vue-05122A?logo=vuedotjs&color=%23242423">
-  <img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-05122A?logo=html5&color=%23242423">
-  <img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-05122A?logo=css3&color=%23242423">
-</div>
-
-<div>
-  <h3>⚙️ Backend:</h3>
-  <img alt="Node.js Badge" src="https://img.shields.io/badge/-Node.js-05122A?logo=nodedotjs&color=%23242423">
-  <img alt="Express Badge" src="https://img.shields.io/badge/-Express-05122A?logo=express&color=%23242423">
-  <img alt="Ruby on Rails Badge" src="https://img.shields.io/badge/-Ruby%20on%20Rails-05122A?logo=rubyonrails&color=%23242423">
-  <img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-05122A?logo=dotnet&color=%23242423">
-</div>
-
-<div>
-  <h3>🗄️ Databases:</h3>
-  <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/-PostgreSQL-05122A?logo=postgresql&color=%23242423">
-  <img alt="MySQL Badge" src="https://img.shields.io/badge/-MySQL-05122A?logo=mysql&color=%23242423">
-  <img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-05122A?logo=mongodb&color=%23242423">
-  <img alt="Redis Badge" src="https://img.shields.io/badge/-Redis-05122A?logo=redis&color=%23242423">
-  <img alt="Prisma Badge" src="https://img.shields.io/badge/-Prisma-05122A?logo=prisma&color=%23242423">
-  <img alt="Drizzle Badge" src="https://img.shields.io/badge/-Drizzle-05122A?logo=drizzle&color=%23242423">
-</div>
-
-<div>
-  <h3>🚀 DevOps & CI/CD:</h3>
-  <img alt="Docker Badge" src="https://img.shields.io/badge/-Docker-05122A?logo=docker&color=%23242423">
-  <img alt="GitHub Actions Badge" src="https://img.shields.io/badge/-GitHub%20Actions-05122A?logo=githubactions&color=%23242423">
-  <img alt="Azure DevOps Badge" src="https://img.shields.io/badge/-Azure%20DevOps-05122A?logo=azuredevops&color=%23242423">
-</div>
-
-<div>
-  <h3>🧪 Testing & Quality:</h3>
-  <img alt="Testing Library Badge" src="https://img.shields.io/badge/-Testing%20Library-05122A?logo=testinglibrary&color=%23242423">
-  <img alt="SonarQube Badge" src="https://img.shields.io/badge/-SonarQube-05122A?logo=sonarqube&color=%23242423">
-  <img alt="PostHog Badge" src="https://img.shields.io/badge/-PostHog-05122A?logo=posthog&color=%23242423">
-</div>
-
-<div>
-  <h3>🤖 AI & Orchestration:</h3>
-  <img alt="Claude Badge" src="https://img.shields.io/badge/-Claude-05122A?logo=anthropic&color=%23242423">
-  <img alt="GitHub Copilot Badge" src="https://img.shields.io/badge/-GitHub%20Copilot-05122A?logo=githubcopilot&color=%23242423">
-</div>
-
-<div>
-  <h3>🛠️ Tools:</h3>
-  <img alt="Git Badge" src="https://img.shields.io/badge/-Git-05122A?logo=git&color=%23242423">
-  <img alt="VS Code Badge" src="https://img.shields.io/badge/-VS%20Code-05122A?logo=visualstudiocode&color=%23242423">
-  <img alt="Figma Badge" src="https://img.shields.io/badge/-Figma-05122A?logo=figma&color=%23242423">
-</div>
+| | |
+|---|---|
+| **💻 Languages** | **📱 Mobile & Frontend** |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?logo=javascript&color=%23242423) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?logo=typescript&color=%23242423) ![C++](https://img.shields.io/badge/-C++-05122A?logo=cplusplus&color=%23242423) ![C#](https://img.shields.io/badge/-C%23-05122A?logo=csharp&color=%23242423) ![Python](https://img.shields.io/badge/-Python-05122A?logo=python&color=%23242423) ![SQL](https://img.shields.io/badge/-SQL-05122A?logo=postgresql&color=%23242423) | ![React Native](https://img.shields.io/badge/-React%20Native-05122A?logo=react&color=%23242423) ![Expo](https://img.shields.io/badge/-Expo-05122A?logo=expo&color=%23242423) ![React](https://img.shields.io/badge/-React-05122A?logo=react&color=%23242423) ![Next.js](https://img.shields.io/badge/-Next.js-05122A?logo=nextdotjs&color=%23242423) ![Vue](https://img.shields.io/badge/-Vue-05122A?logo=vuedotjs&color=%23242423) ![HTML](https://img.shields.io/badge/-HTML-05122A?logo=html5&color=%23242423) ![CSS](https://img.shields.io/badge/-CSS-05122A?logo=css3&color=%23242423) |
+| **⚙️ Backend & Data** | **🚀 DevOps & Quality** |
+| ![Node.js](https://img.shields.io/badge/-Node.js-05122A?logo=nodedotjs&color=%23242423) ![Express](https://img.shields.io/badge/-Express-05122A?logo=express&color=%23242423) ![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-05122A?logo=rubyonrails&color=%23242423) ![.NET](https://img.shields.io/badge/-.NET-05122A?logo=dotnet&color=%23242423) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?logo=postgresql&color=%23242423) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?logo=mysql&color=%23242423) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?logo=mongodb&color=%23242423) ![Redis](https://img.shields.io/badge/-Redis-05122A?logo=redis&color=%23242423) ![Prisma](https://img.shields.io/badge/-Prisma-05122A?logo=prisma&color=%23242423) ![Drizzle](https://img.shields.io/badge/-Drizzle-05122A?logo=drizzle&color=%23242423) | ![Docker](https://img.shields.io/badge/-Docker-05122A?logo=docker&color=%23242423) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?logo=githubactions&color=%23242423) ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?logo=azuredevops&color=%23242423) ![Testing Library](https://img.shields.io/badge/-Testing%20Library-05122A?logo=testinglibrary&color=%23242423) ![SonarQube](https://img.shields.io/badge/-SonarQube-05122A?logo=sonarqube&color=%23242423) ![PostHog](https://img.shields.io/badge/-PostHog-05122A?logo=posthog&color=%23242423) |
+| **🛠️ Tools** | |
+| ![Git](https://img.shields.io/badge/-Git-05122A?logo=git&color=%23242423) ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?logo=visualstudiocode&color=%23242423) ![Figma](https://img.shields.io/badge/-Figma-05122A?logo=figma&color=%23242423) ![Claude](https://img.shields.io/badge/-Claude-05122A?logo=anthropic&color=%23242423) ![Copilot](https://img.shields.io/badge/-GitHub%20Copilot-05122A?logo=githubcopilot&color=%23242423) | |
 
 <img src="https://github.com/JoaoVargas/JoaoVargas/blob/main/assets/images/wave_divider.svg" width="100%">
 
